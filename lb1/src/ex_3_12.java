@@ -45,32 +45,26 @@ import java.util.Set;
         public String getPartNumber() {
             return partNumber;
         }
+        public String getDescription() {
+            return description;
+        }
+        public int getQuantity() {
+            return quantity;
+        }
+        public double getPrice() {
+            return price;
+        }
 
         public void setPartNumber(String partNumber) {
             this.partNumber = partNumber;
-        }
-
-
-        public String getDescription() {
-            return description;
         }
 
         public void setDescription(String description) {
             this.description = description;
         }
 
-
-        public int getQuantity() {
-            return quantity;
-        }
-
         public void setQuantity(int quantity) {
             this.quantity = quantity;
-        }
-
-
-        public double getPrice() {
-            return price;
         }
 
         public void setPrice(double price) {
