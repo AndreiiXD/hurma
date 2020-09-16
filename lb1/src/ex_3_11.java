@@ -53,7 +53,5 @@ public class ex_3_11 {
         acc2.withdraw(25);
         System.out.println(acc2.getBalance());
 
-
-
     }
 }
