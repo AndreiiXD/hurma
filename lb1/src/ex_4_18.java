@@ -1,5 +1,4 @@
-
-    import java.util.Scanner;
+import java.util.Scanner;
 
     public class ex_4_18 {
         public static void main(String[] args) {
@@ -120,4 +119,3 @@
             }
         }
     }
-
